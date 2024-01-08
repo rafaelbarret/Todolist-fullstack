@@ -70,7 +70,7 @@ td {
 }
 
 tr:nth-child(even) {
-    background-color: #dddcdc;
+    background-color: #e8e8e8;
 }
 
 select {
