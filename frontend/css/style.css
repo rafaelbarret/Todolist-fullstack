@@ -7,18 +7,6 @@
     font-family: 'Urbanist', sans-serif;
 }
 
-body {
-    background-color: #0099ff;
-}
-
-main {
-    background-color: #fff;
-    border-radius: 8px;
-    padding: 20px;
-    width: 90%;
-    margin: 40px auto;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
 
 .add-form {
     display: flex;
@@ -71,6 +59,10 @@ td {
 
 tr:nth-child(even) {
     background-color: #e8e8e8;
+}
+
+tr:nth-child(odd) {
+    background-color: #fff;
 }
 
 select {
